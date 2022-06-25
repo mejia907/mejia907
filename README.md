@@ -23,7 +23,7 @@ Soy un desarrollador de software Full Stack y un entusiasta del aprendizaje aut�
 
 👨‍💻 Aprendiendo.....
 ---
-![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-45d1fd?style=for-the-badge&logo=flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-45d1fd?style=for-the-badge&logo=flutter&logoColor=white)  ![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=for-the-badge&logo=laravel&logoColor=red)
 
 
 
