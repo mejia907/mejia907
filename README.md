@@ -30,7 +30,8 @@ Soy un desarrollador de software Full Stack y un entusiasta del aprendizaje aut�
 
 :mailbox_with_mail: Contacto
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andresfelipemejiar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresfelipemejiar)
 <!--
 **mejia907/mejia907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
