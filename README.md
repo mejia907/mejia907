@@ -6,7 +6,7 @@ Soy un desarrollador de software Full Stack y un entusiasta del aprendizaje aut√
 
 :seedling: Disfruto mucho estar en  lugares tranquilos, donde este rodeado de naturaleza.
 
-:computer: Lista de tecnologias
+:computer: Lista de tecnolog√≠as
 ---
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![JQuery](https://img.shields.io/badge/JQuery-b24926?style=for-the-badge&logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-6528e0?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
