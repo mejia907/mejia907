@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="5px">  Hola, Mi nombre es Andrés Felipe Mejia <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px" width="6px">  Hola, Mi nombre es Andrés Felipe Mejia <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>
 
 Soy un desarrollador de software Full Stack y un entusiasta del aprendizaje autónomo. Soy un apasionado de las tecnologías y me encanta aprender cosas nuevas.
 
